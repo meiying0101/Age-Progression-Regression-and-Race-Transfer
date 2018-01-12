@@ -8,3 +8,9 @@ We want to predict of future looks and estimate of previous looks, also referred
 
 UTKFace:
 https://susanqq.github.io/UTKFace/
+
+
+## Result
+
+<img src="Aging-CAAE/result.png" width="24%"/>
+<img src="race-CAAE/result.png" width="24%"/>
